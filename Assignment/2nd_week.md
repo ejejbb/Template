@@ -64,7 +64,7 @@
 
 > 사용한 테이블은 다음과 같습니다.
 
-![TABLE1](./File/2.6.PNG)|![TABLE2](/File/2.7.PNG)
+![TABLE1](https://github.com/ejejbb/Template/raw/main/File/2.6.PNG)|![TABLE2](https://github.com/ejejbb/Template/raw/main/File/2.7.PNG)
 ---|---|
 
 > 보기: INNER, FULL, LEFT, RIGHT 조인
@@ -72,25 +72,25 @@
 <!-- 테이블 조인의 종류를 이해하였는지 확인하기 위한 문제입니다. 각 테이블이 어떤 조인 방식을 이용하였을지 고민해보고 각 테이블 아래에 답을 작성해주세요.-->
 
 ### 1-1. 
-![TABLE](/File/2-1.PNG)
+![TABLE](https://github.com/ejejbb/Template/raw/main/File/2-1.PNG)
 ```
 여기에 답을 작성해주세요!
 ```
 
 ### 1-2. 
-![TABLE](/File/2-3.PNG)
+![TABLE](https://github.com/ejejbb/Template/raw/main/File/2-3.PNG)
 ```
 여기에 답을 작성해주세요!
 ```
 
 ### 1-3. 
-![TABLE](/File/2-2.PNG)
+![TABLE](https://github.com/ejejbb/Template/raw/main/File/2-2.PNG)
 ```
 여기에 답을 작성해주세요!
 ```
 
 ### 1-4. 
-![TABLE](/File/2-4.PNG)
+![TABLE](https://github.com/ejejbb/Template/raw/main/File/2-4.PNG)
 ```
 여기에 답을 작성해주세요!
 ```
