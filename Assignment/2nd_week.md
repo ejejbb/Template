@@ -64,7 +64,7 @@
 
 > 사용한 테이블은 다음과 같습니다.
 
-![TABLE1](/File/2.6.PNG)|![TABLE2](/File/2.7.PNG)
+![TABLE1](./File/2.6.PNG)|![TABLE2](/File/2.7.PNG)
 ---|---|
 
 > 보기: INNER, FULL, LEFT, RIGHT 조인
