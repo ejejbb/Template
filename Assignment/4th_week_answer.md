@@ -18,7 +18,7 @@
 (b) 두 변수 간의 관계 확인   
 : 산점도(수치형-수치형) / 박스플롯(범주형-수치형) / 막대그래프(범주형-범주형)   
 (b)-1. 산점도 예시(ex.공부시간-시험점수)   
-<img src="/File/4-1.png" width="300"/>
+<img src="https://github.com/ejejbb/Template/blob/97c0fa5c5c22d1d75c3c4645413c00d8950c5a41/File/4-1.png" width="400">
 ![alt text](/File/4-1.png)   
 (b)-2. 박스플롯 예시(ex.성별-키)   
 ![alt text](/File/4-2.png)   
