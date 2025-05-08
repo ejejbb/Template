@@ -21,7 +21,7 @@
 <img src="https://github.com/ejejbb/Template/blob/97c0fa5c5c22d1d75c3c4645413c00d8950c5a41/File/4-1.png" width="400">      
 (b)-2. 박스플롯 예시(ex.성별-키)   
 <img src="https://github.com/ejejbb/Template/blob/97c0fa5c5c22d1d75c3c4645413c00d8950c5a41/File/4-2.png" width="400">     
-(b)-3. 막대그래프(ex.성별-과목별 평균점수)   
+(b)-3. 막대그래프 예시(ex.성별-과목별 평균점수)   
 <img src="https://github.com/ejejbb/Template/blob/63a9f48aaa6c01b01d7c378c1cb61a902cc7a14f/File/4-3.png" width="400">
 
 (c) 집단별 평균 비교: 막대그래프, 박스플롯, (산점도)   
